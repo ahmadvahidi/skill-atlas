@@ -35,6 +35,12 @@ respective owners. They are named here only to describe compatibility.
 
 MIT terms
 ---------
-Both the original work and this derivative are distributed under the MIT
-licence reproduced in LICENSE. The upstream copyright notice is preserved
-there, as the licence requires.
+The skills under skills/ are redistributed under the upstream MIT licence:
+
+    Copyright (c) 2026 Affaan Mustafa
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software ... (full text: https://github.com/affaan-m/ECC/blob/main/LICENSE)
+
+LICENSE in this repository is the MIT text carrying this repository's own
+copyright (selection, documentation, tooling, artwork). Both notices travel
+together, as the licence requires.
